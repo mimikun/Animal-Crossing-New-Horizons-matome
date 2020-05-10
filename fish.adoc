@@ -1,42 +1,66 @@
 = 未寄贈魚一覧
 
-* ガー
-* サメ
-* フグ
-* ベタ
-* イトウ
-* オケラ
-* カエル
-* カジキ
-* シイラ
-* ドラド
-* マグロ
-* メダカ
-* アロワナ
-* グッピー
-* ザリガニ
-* デメキン
-* ピラニア
-* ピラルク
-* ヤドカリ
-* ライギョ
-* ワカサギ
-* オオイワナ
-* チョウザメ
-* デメニギス
-* ブルーギル
-* ランチュウ
-* シュモクザメ
-* シーラカンス
-* ジンベイザメ
-* ナンヨウハギ
-* ネオンテトラ
-* ノコギリザメ
-* ロウニンアジ
-* オタマジャクシ
-* シャンハイガニ
-* エンゼルフィッシュ
-* ゴールデントラウト
-* リュウグウノツカイ
-* ナポレオンフィッシュ
-* レインボーフィッシュ
+* [ ] Pop-eyed goldfish
+** デメキン
+* [ ] Ranchu goldfish
+** ランチュウ
+* [ ] Killifish
+** メダカ
+* [ ] Tadpole
+** オタマジャクシ
+* [ ] Frog
+** カエル
+* [ ] Giant snakehead
+** ライギョ
+* [ ] Giant snakehead
+** ブルーギル
+* [ ] Pond smelt
+** ワカサギ
+* [ ] Golden trout
+** ゴールデントラウト
+* [ ] Stringfish
+** イトウ
+* [ ] Mitten crab
+** シャンハイガニ
+* [ ] Angelfish
+** エンゼルフィッシュ
+* [ ] Betta
+** ベタ
+* [ ] Neon tetra
+** ネオンテトラ
+* [ ] Rainbowfish
+** レインボーフィッシュ
+* [ ] Piranha
+** ピラニア
+* [ ] Arowana
+** アロワナ
+* [ ] Dorado
+** ドラド
+* [ ] Gar
+** ガー
+* [ ] Arapaima
+** ピラルク
+* [ ] Saddled bichir
+** エンドリケリー
+* [ ] Surgeonfish
+** ナンヨウハギ
+* [ ] Napoleonfish
+** ナポレオンフィッシュ
+* [ ] Blowfish
+** フグ
+* [ ] Giant trevally
+** ロウニンアジ
+* [ ] Mahi-mahi
+** シイラ
+* [ ] Saw shark
+** ノコギリザメ
+* [ ] Hammerhead shark
+** シュモクザメ
+* [ ] Great white shark
+** サメ
+* [ ] Whale shark
+** ジンベエザメ
+* [ ] Barreleye
+** デメニギス
+* [ ] Coelacanth
+** シーラカンス

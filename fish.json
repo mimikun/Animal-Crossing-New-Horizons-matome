@@ -1,0 +1,962 @@
+{
+  "pop-eyed_goldfish": {
+    "id": 8,
+    "file-name": "pop-eyed_goldfish",
+    "name": {
+      "name-en": "Pop-eyed goldfish",
+      "name-cn": "龙睛金鱼",
+      "name-de": "Teleskopauge",
+      "name-sp": "Pez telescopio",
+      "name-fr": "Cyprin doré",
+      "name-it": "Pesce telescopio",
+      "name-jp": "デメキン",
+      "name-kr": "툭눈금붕어",
+      "name-nl": "Telescoopooggoudvis",
+      "name-ru": "Телескол"
+    },
+    "availability": {
+      "month-northern": "",
+      "month-southern": "",
+      "time": "9am - 4pm",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Pond",
+      "rarity": "Common"
+    },
+    "shadow": "Smallest (1)",
+    "price": 1300,
+    "price-cj": 1950,
+    "catch-phrase": "I got a pop-eyed goldfish! It looks so...surprised!",
+    "museum-phrase": "Pop-eyed goldfish have, as the name suggests, huge round eyes. But as babies they look like other goldfish! As they grow, their eyes begin to pop out and they gain their, hoo, distinct appearance... Imagine the poor fish fancier who unknowingly bought one! Their eyes might well pop out just as far!"
+  },
+  "ranchu_goldfish": {
+    "id": 9,
+    "file-name": "ranchu_goldfish",
+    "name": {
+      "name-en": "Ranchu goldfish",
+      "name-cn": "兰寿金鱼",
+      "name-de": "Ranchu",
+      "name-sp": "Ranchú",
+      "name-fr": "Ranchu",
+      "name-it": "Ranchu",
+      "name-jp": "ランチュウ",
+      "name-kr": "난주",
+      "name-nl": "Buffelrug",
+      "name-ru": "Ранчу"
+    },
+    "availability": {
+      "month-northern": "",
+      "month-southern": "",
+      "time": "9am - 4pm",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Pond",
+      "rarity": "Uncommon"
+    },
+    "shadow": "Small (2)",
+    "price": 4500,
+    "price-cj": 6750,
+    "catch-phrase": "I caught a ranchu goldfish! But I prefer balsamicu goldfish!",
+    "museum-phrase": "The ranchu goldfish is a charming relative of the goldfish with a bumpy head and stout, round body. They have ordinary heads when born, but develop impressive rectangular heads after about three years. Supposedly their head shape changes depending on factors like the size of their tank... So ranchu goldfish enthusiasts aim to raise perfectly shaped specimens and work hard to achieve this. Of course, no one asks the ranchu goldfish themselves what shape they want their heads to be..."
+  },
+  "killifish": {
+    "id": 10,
+    "file-name": "killifish",
+    "name": {
+      "name-en": "Killifish",
+      "name-cn": "稻田鱼",
+      "name-de": "Killifisch",
+      "name-sp": "Killi",
+      "name-fr": "Fondule barré",
+      "name-it": "Killifish",
+      "name-jp": "メダカ",
+      "name-kr": "송사리",
+      "name-nl": "Killivis",
+      "name-ru": "Оризия"
+    },
+    "availability": {
+      "month-northern": "4-8",
+      "month-southern": "10-2",
+      "time": "",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Pond",
+      "rarity": "Common"
+    },
+    "shadow": "Smallest (1)",
+    "price": 300,
+    "price-cj": 450,
+    "catch-phrase": "I caught a killifish! The streams are safe again.",
+    "museum-phrase": "Ah, the magnificent killifish! Did you know there are over 1,000 different species? My own favorite killifish species are the mangrove, which can live on land for weeks, breathing air! And the mummichog, the first fish ever brought to space. I wonder if the killifish you've brought me is related to either those intrepid explorers?"
+  },
+  "tadpole": {
+    "id": 14,
+    "file-name": "tadpole",
+    "name": {
+      "name-en": "Tadpole",
+      "name-cn": "蝌蚪",
+      "name-de": "Kaulquappe",
+      "name-sp": "Renacuajo",
+      "name-fr": "Têtard",
+      "name-it": "Girino",
+      "name-jp": "オタマジャクシ",
+      "name-kr": "올챙이",
+      "name-nl": "Kikkervisje",
+      "name-ru": "Головастик"
+    },
+    "availability": {
+      "month-northern": "3-7",
+      "month-southern": "9-1",
+      "time": "",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Pond",
+      "rarity": "Common"
+    },
+    "shadow": "Smallest (1)",
+    "price": 100,
+    "price-cj": 150,
+    "catch-phrase": "I caught a tadpole... It's just a tad small.",
+    "museum-phrase": "Undoubtedly you know that tadpoles eventually turn into frogs. I must say, I find them impossibly adorable with their squiggly little tails. But even cuter... when they sprout legs! Why, we can witness accelerated evolution in these squirmy little ones. Hoo, it makes me so emotional!"
+  },
+  "frog": {
+    "id": 15,
+    "file-name": "frog",
+    "name": {
+      "name-en": "Frog",
+      "name-cn": "青蛙",
+      "name-de": "Frosch",
+      "name-sp": "Rana",
+      "name-fr": "Grenouille",
+      "name-it": "Rana",
+      "name-jp": "カエル",
+      "name-kr": "개구리",
+      "name-nl": "Kikker",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "5-8",
+      "month-southern": "11-2",
+      "time": "",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Pond",
+      "rarity": "Common"
+    },
+    "shadow": "Small (2)",
+    "price": 120,
+    "price-cj": 180,
+    "catch-phrase": "I caught a frog! Or it's a new neighbor...and I have some apologizing to do.",
+    "museum-phrase": "I understand that frogs converse with fellow frogs through a number of varied calls, as it were. Ribbit! My prince has arrived! Gribbit riiibbit! This pond is tragic! Ribbity rib't! I think you're splendid! Hoo hoo, of course I have no clue what they're saying, but I like to think if I practice enough, I might!"
+  },
+  "giant_snakehead": {
+    "id": 19,
+    "file-name": "giant_snakehead",
+    "name": {
+      "name-en": "Giant snakehead",
+      "name-cn": "黑鱼",
+      "name-de": "Schlangenkopf",
+      "name-sp": "Pez cabeza de serpiente",
+      "name-fr": "Tête-de-serpent",
+      "name-it": "Pesce serpente",
+      "name-jp": "ライギョ",
+      "name-kr": "가물치",
+      "name-nl": "Rode slangenkopvis",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-8",
+      "month-southern": "12-2",
+      "time": "9am - 4pm",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Pond",
+      "rarity": "Rare"
+    },
+    "shadow": "Large (5)",
+    "price": 5500,
+    "price-cj": 8250,
+    "catch-phrase": "I caught a giant snakehead! Um...but I asked for a medium?",
+    "museum-phrase": "The giant snakehead is quite a sight to behold, wot! One glance conjurs up visions of its namesake. This resilient creature can even find a home in the mud, where it is able to breathe. As a matter of fact, it dislikes cold weather, so during wintertime the mud serves as its temporary home. I hear that they eat anything that swims past their head. While odd, I feel a sense of owlship with them."
+  },
+  "bluegill": {
+    "id": 20,
+    "file-name": "bluegill",
+    "name": {
+      "name-en": "Giant snakehead",
+      "name-cn": "蓝腮太阳鱼",
+      "name-de": "Sonnenbarsch",
+      "name-sp": "Pez sol",
+      "name-fr": "Crapet",
+      "name-it": "Pesce persico",
+      "name-jp": "ブルーギル",
+      "name-kr": "블루길",
+      "name-nl": "Zonnebaars",
+      "name-ru": "Солнечник"
+    },
+    "availability": {
+      "month-northern": "",
+      "month-southern": "",
+      "time": "9am - 4pm",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "River",
+      "rarity": "Common"
+    },
+    "shadow": "Small (2)",
+    "price": 180,
+    "price-cj": 270,
+    "catch-phrase": "I caught a bluegill! Do you think it calls me \"pinklung\"?",
+    "museum-phrase": "The bluegill is incredibly common. A bit too common, depending upon where you are. They eat anything that fits in their mouths and are highly adaptable. The bane of fishermen in some areas, bluegill is often the only fish to be caught! But looking in its wee beady eyes, I must say I see no ill will in it..."
+  },
+  "pond_smelt": {
+    "id": 25,
+    "file-name": "pond_smelt",
+    "name": {
+      "name-en": "Pond smelt",
+      "name-cn": "西太公鱼",
+      "name-de": "Stint",
+      "name-sp": "Eperlano",
+      "name-fr": "Éperlan",
+      "name-it": "Pingo",
+      "name-jp": "ワカサギ",
+      "name-kr": "빙어",
+      "name-nl": "Spiering",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "12-2",
+      "month-southern": "6-8",
+      "time": "",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Common"
+    },
+    "shadow": "Small (2)",
+    "price": 400,
+    "price-cj": 600,
+    "catch-phrase": "I caught a pond smelt! Whoever smelt it dealt it!",
+    "museum-phrase": "For many, thinking of pond smelt inevitably leads to thoughts of ice fishing in frozen rivers and lakes. Ice fishing involves making a round hole in the ice, dropping in your fishing line, and...waiting. Not to rain on anyone else's idea of fun, but...well, perhaps I shouldn't say anything."
+  },
+  "golden_trout": {
+    "id": 29,
+    "file-name": "golden_trout",
+    "name": {
+      "name-en": "Golden trout",
+      "name-cn": "金鳟",
+      "name-de": "Goldforelle",
+      "name-sp": "Trucha dorada",
+      "name-fr": "Truite dorée",
+      "name-it": "Trota dorata",
+      "name-jp": "ゴールデントラウト",
+      "name-kr": "금송어",
+      "name-nl": "Goudforel",
+      "name-ru": "Золотая форель"
+    },
+    "availability": {
+      "month-northern": "3-5 & 9-11",
+      "month-southern": "3-5 & 9-11",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River (Clifftop)",
+      "rarity": "Ultra-rare"
+    },
+    "shadow": "Medium (3)",
+    "price": 15000,
+    "price-cj": 22500,
+    "catch-phrase": "I caught a golden trout! But the real treasure? Friendship.",
+    "museum-phrase": "The golden trout is a beautifully colored fish that can only live in very clean waters. They are difficult to come across since they are found only in high mountain streams. As a side note, I find it much easier to appreciate fish that aren't such prima donnas about everything."
+  },
+  "stringfish": {
+    "id": 30,
+    "file-name": "stringfish",
+    "name": {
+      "name-en": "Stringfish",
+      "name-cn": "远东哲罗鱼",
+      "name-de": "Huchen",
+      "name-sp": "Taimén",
+      "name-fr": "Dai yu",
+      "name-it": "Taimen",
+      "name-jp": "イトウ",
+      "name-kr": "일본연어",
+      "name-nl": "Donauzalm",
+      "name-ru": "Таймень"
+    },
+    "availability": {
+      "month-northern": "12-3",
+      "month-southern": "6-9",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River (Clifftop)",
+      "rarity": "Ultra-rare"
+    },
+    "shadow": "Large (5)",
+    "price": 15000,
+    "price-cj": 22500,
+    "catch-phrase": "OH MY GOSH! I caught a stringifish! Five more and I'll have a guitarfish!",
+    "museum-phrase": "The stringfish grows slowly, but also lives quite a long time for a fish, with up to 15 years being typical. Consequently, while it takes a while, they can get quite large-perhaps even up to six feet long! The stringfish is perhaps the best embodiment in the fish world of 'slow and steady wins the race'"
+  },
+  "mitten_crab": {
+    "id": 33,
+    "file-name": "mitten_crab",
+    "name": {
+      "name-en": "Mitten crab",
+      "name-cn": "中华绒螯蟹",
+      "name-de": "Wollhandkrabbe",
+      "name-sp": "Cangrejo de Shanghái",
+      "name-fr": "Crabe chinois",
+      "name-it": "Granchio guantato",
+      "name-jp": "シャンハイガニ",
+      "name-kr": "참게",
+      "name-nl": "Wolhandkrab",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "9-11",
+      "month-southern": "3-5",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Uncommon"
+    },
+    "shadow": "Small (2)",
+    "price": 2000,
+    "price-cj": 3000,
+    "catch-phrase": "I caught a mitten crab! One more and I'm ready for winter!",
+    "museum-phrase": "The mitten crab was named for its impossibly adorable and fuzzy little pincers. These cute crustaceans embark on quite the journey. They're first born in brackish waters. Then they mature in freshwater. Finally, they travel to the ocean to create more mitten crabs!Hoo! How I delight in the thought of thousands of tiny mittened crabs scuttling about!"
+  },
+  "angelfish": {
+    "id": 36,
+    "file-name": "angelfish",
+    "name": {
+      "name-en": "Angelfish",
+      "name-cn": "神仙鱼",
+      "name-de": "Skalar",
+      "name-sp": "Pez ángel",
+      "name-fr": "Poisson-ange",
+      "name-it": "Pesce angelo",
+      "name-jp": "エンゼルフィッシュ",
+      "name-kr": "천사어",
+      "name-nl": "Maanvis",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "5-10",
+      "month-southern": "11-4",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Uncommon"
+    },
+    "shadow": "Small (2)",
+    "price": 3000,
+    "price-cj": 4500,
+    "catch-phrase": "I caught an angelfish! That other fish told me to do it!",
+    "museum-phrase": "The angelfish is truly a beautiful creature. Just look at the elegance of those fins!Despite the name, however, these lovelies are known to be rather aggressive. They've no qualms about relentlessly pursuing fish much smaller than themselves! Why, they even attack their own kin! It seems no fish is safe around these \"angelic\" bullies. It makes one wonder who comes up with these names. Appearances— and names— can be deceiving."
+  },
+  "betta": {
+    "id": 37,
+    "file-name": "betta",
+    "name": {
+      "name-en": "Betta",
+      "name-cn": "斗鱼",
+      "name-de": "Kampffisch",
+      "name-sp": "Betta",
+      "name-fr": "Combattant",
+      "name-it": "Betta",
+      "name-jp": "ベタ",
+      "name-kr": "베타",
+      "name-nl": "Siamese kempvis",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "5-10",
+      "month-southern": "11-4",
+      "time": "9am - 4pm",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Uncommon"
+    },
+    "shadow": "Small (2)",
+    "price": 2500,
+    "price-cj": 3750,
+    "catch-phrase": "I caught a betta! I betta not drop it!",
+    "museum-phrase": "The betta has long fins and beautiful coloring. It is a tropical fish popular in decorative aquariums. They're very territorial and will fight to complete exhaustion, so aquarists must keep them carefully. Rarely do such beauty and violence commingle outside the rowdiest of sunset-viewing parties."
+  },
+  "neon_tetra": {
+    "id": 38,
+    "file-name": "neon_tetra",
+    "name": {
+      "name-en": "Neon tetra",
+      "name-cn": "霓虹灯鱼",
+      "name-de": "Neonsalmler",
+      "name-sp": "Tetra neón",
+      "name-fr": "Néon bleu",
+      "name-it": "Pesce neon",
+      "name-jp": "ネオンテトラ",
+      "name-kr": "네온테트라",
+      "name-nl": "Neontetra",
+      "name-ru": "Голубой неон"
+    },
+    "availability": {
+      "month-northern": "4-11",
+      "month-southern": "9-5",
+      "time": "9am - 4pm",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Common"
+    },
+    "shadow": "Smallest (1)",
+    "price": 500,
+    "price-cj": 750,
+    "catch-phrase": "I caught a neon tetra! Wasn't hard to track.",
+    "museum-phrase": "Hoo! Wonderful! The neon tetra is truly a marvel of the tropical-fish world. Just look at how tiny it is! And how very filled with...neon! I imagine its environment must be just as flashy as it is for it to have developed such colors. I wonder how flashy I might be, had I been raised somewhere even half as vibrant?"
+  },
+  "rainbowfish": {
+    "id": 39,
+    "file-name": "rainbowfish",
+    "name": {
+      "name-en": "Rainbowfish",
+      "name-cn": "彩虹鱼",
+      "name-de": "Regenbogenfisch",
+      "name-sp": "Pez arcoíris",
+      "name-fr": "Poisson arc-en-ciel",
+      "name-it": "Pesce arcobaleno",
+      "name-jp": "レインボーフィッシュ",
+      "name-kr": "레인보우피시",
+      "name-nl": "Regenboogvis",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "5-10",
+      "month-southern": "11-4",
+      "time": "9am - 4pm",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Common"
+    },
+    "shadow": "Smallest (1)",
+    "price": 800,
+    "price-cj": 1200,
+    "catch-phrase": "I caught a rainbowfish! Where's my pot of goldfish?",
+    "museum-phrase": "The rainbowfish is a tropical fish known for its metallic colors and beautiful fins. There are over 50 different species, each unique and pleasing color. I must say, it does make me wish for feathers of a more exciting hue than \"underbaked brownie.\""
+  },
+  "piranha": {
+    "id": 40,
+    "file-name": "piranha",
+    "name": {
+      "name-en": "Piranha",
+      "name-cn": "食人鱼",
+      "name-de": "Piranha",
+      "name-sp": "Piraña",
+      "name-fr": "Piranha",
+      "name-it": "Pesce piranha",
+      "name-jp": "ピラニア",
+      "name-kr": "피라니아",
+      "name-nl": "Piranha",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "9am - 4pm & 9pm - 4am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Uncommon"
+    },
+    "shadow": "Small (2)",
+    "price": 2500,
+    "price-cj": 3750,
+    "catch-phrase": "I caught a piranha! Sure hope it was the only one!",
+    "museum-phrase": "I am not exactly a fan of the piranha, despite knowing that they're mostly harmless. But those nasty, pointy teeth, Hoo. These infamous little blighters will attack when in groups. Imagine all of those hundreds of tiny teeth! To think that they're floundering about our peaceful waters, just waiting to strike. Well, never fear— I shall keep THIS one under the strictest lock and key, with nary a bathroom break allowed!"
+  },
+  "arowana": {
+    "id": 41,
+    "file-name": "arowana",
+    "name": {
+      "name-en": "Arowana",
+      "name-cn": "骨舌鱼",
+      "name-de": "Arowana",
+      "name-sp": "Arowana",
+      "name-fr": "Arowana",
+      "name-it": "Arowana",
+      "name-jp": "アロワナ",
+      "name-kr": "아로와나",
+      "name-nl": "Arowana",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Rare"
+    },
+    "shadow": "Medium (4)",
+    "price": 10000,
+    "price-cj": 15000,
+    "catch-phrase": "I caught an arowana! I'd make a joke, but I don't 'wana.",
+    "museum-phrase": "It would seem your angling expertise knows no bounds! This beauteous arowana fetches a pretty Bell, though I'd venture to say that its true price is beyond measure. The arowana has been on the endangered-species list for some time. It's up to us to remain educated and do all we can to help preserve such magnificent creatures. Not to worry, old bean. This lovely fishy friend is in good wings here! On behalf of the museum, I thank you warmly for your unending generosity!"
+  },
+  "dorado": {
+    "id": 42,
+    "file-name": "dorado",
+    "name": {
+      "name-en": "Dorado",
+      "name-cn": "黄金河虎",
+      "name-de": "Lachssalmler",
+      "name-sp": "Dorado",
+      "name-fr": "Dorade",
+      "name-it": "Dorado",
+      "name-jp": "ドラド",
+      "name-kr": "황금연어",
+      "name-nl": "Dorado",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "4am - 9pm",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Ultra-rare"
+    },
+    "shadow": "Large (5)",
+    "price": 15000,
+    "price-cj": 22500,
+    "catch-phrase": "I caught a dorado! I say \"dorado,\" you say \"doraydo.\"",
+    "museum-phrase": "Woo-hoo! So shiny! This massive fish's name, dorado, means \"golden\" in Spanish— a fitting title. They are also quite valuable, I understand. I congratulate you on your top-notch angling! They are rather large, eh wot? It makes one wonder what all they might feed on... Fowl, perhaps?! One quivers at the very thought! Well, it'll be safe behind glass, no doubt. Quite safe, hoo"
+  },
+  "gar": {
+    "id": 43,
+    "file-name": "gar",
+    "name": {
+      "name-en": "Gar",
+      "name-cn": "雀鳝",
+      "name-de": "Knochenhecht",
+      "name-sp": "Pez caimán",
+      "name-fr": "Gar",
+      "name-it": "Luccio",
+      "name-jp": "ガー",
+      "name-kr": "가아",
+      "name-nl": "Kaaimansnoek",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Pond",
+      "rarity": "Rare"
+    },
+    "shadow": "Large (5)",
+    "price": 6000,
+    "price-cj": 9000,
+    "catch-phrase": "I caught a gar! Yar! It's a gar! Har har!",
+    "museum-phrase": "Hoo hoo! So you have snagged a gar. Did you know this beastly fish can grow up to nine feet long? Indeed, the gar is a remnant of times long past— a living fossil, if you will. It not only has sharp teeth and armor-like scalesn, it has the ability to take breaths of air as well! Ah, to look upon this unusual fish is to get a glimpse of our prehistoric past."
+  },
+  "arapaima": {
+    "id": 44,
+    "file-name": "arapaima",
+    "name": {
+      "name-en": "Arapaima",
+      "name-cn": "巨骨舌鱼",
+      "name-de": "Arapaima",
+      "name-sp": "Pirarucú",
+      "name-fr": "Arapaïma",
+      "name-it": "Pirarucù",
+      "name-jp": "ピラルク",
+      "name-kr": "피라루쿠",
+      "name-nl": "Arapaima",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Rare"
+    },
+    "shadow": "Largest (6)",
+    "price": 10000,
+    "price-cj": 15000,
+    "catch-phrase": "I caught an arapaima! How did it get here? Arapaiknow!",
+    "museum-phrase": "The stately arapaima is quite large. Indeed, it is among the largest freshwater fish there are. Furthermore, these fascinating fish make quite the family unit. That is to say, male arapaimas protect their young by holding them gently in their mouths. Meanwhile, female arapaimas swim circles around these full-mouthed fathers fending off predators. It simply goes to show that cold-blooded creatures can be heartwarming too."
+  },
+  "saddled_bichir": {
+    "id": 45,
+    "file-name": "saddled_bichir",
+    "name": {
+      "name-en": "Saddled bichir",
+      "name-cn": "恩氏多鳍鱼",
+      "name-de": "Flösselhecht",
+      "name-sp": "Bichir ensillado",
+      "name-fr": "Bichir",
+      "name-it": "Polipteride",
+      "name-jp": "エンドリケリー",
+      "name-kr": "엔드리케리",
+      "name-nl": "Kwastsnoek",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "9pm - 4am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "River",
+      "rarity": "Uncommon"
+    },
+    "shadow": "Medium (4)",
+    "price": 4000,
+    "price-cj": 6000,
+    "catch-phrase": "Wow! A saddled bichir! And me without my tiny riding crop...",
+    "museum-phrase": "What an elegant specimen you've found. The saddled bichir has a look entirely its own. They have poor eyesight, so they use their fine-tuned sniffers to seek out prey. Can you imagine relying solely on your sense of smell to find food? And if one nostril became clogged, would you be unable to tell how far away the scent was?"
+  },
+  "surgeonfish": {
+    "id": 50,
+    "file-name": "surgeonfish",
+    "name": {
+      "name-en": "Surgeonfish",
+      "name-cn": "拟刺尾鲷",
+      "name-de": "Paletten-Doktorfisch",
+      "name-sp": "Pez cirujano",
+      "name-fr": "Poisson chirurgien",
+      "name-it": "Pesce chirurgo",
+      "name-jp": "ナンヨウハギ",
+      "name-kr": "블루탱",
+      "name-nl": "Doktersvis",
+      "name-ru": "Осетр"
+    },
+    "availability": {
+      "month-northern": "4-9",
+      "month-southern": "10-3",
+      "time": "",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Sea",
+      "rarity": "Common"
+    },
+    "shadow": "Small (2)",
+    "price": 1000,
+    "price-cj": 1500,
+    "catch-phrase": "I caught a surgeonfish! Scalpel! Forceps! Fish hook!",
+    "museum-phrase": "Hoo! Careful, now! These fish are particularly dangerous, despite their seemingly docile appearance. With its saturated blue and yellow tones, the surgeonfish is quite breathtaking. It's got to keep up with all the other vibrant fish that live in the coral too, I wager. Quite the competition! Its spine is sharp as a blade, so care must be taken when handling these beauties..."
+  },
+  "napoleonfish": {
+    "id": 52,
+    "file-name": "napoleonfish",
+    "name": {
+      "name-en": "Napoleonfish",
+      "name-cn": "苏眉鱼",
+      "name-de": "Napoleonfisch",
+      "name-sp": "Pez napoleón",
+      "name-fr": "Napoléon",
+      "name-it": "Pesce napoleone",
+      "name-jp": "ナポレオンフィッシュ",
+      "name-kr": "나폴레옹피시",
+      "name-nl": "Napoleonvis",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "7-8",
+      "month-southern": "1-2",
+      "time": "4am - 9pm",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Sea",
+      "rarity": "Rare"
+    },
+    "shadow": "Largest (6)",
+    "price": 10000,
+    "price-cj": 15000,
+    "catch-phrase": "I caught a Napoleonfish! It's not as big as it thinks!",
+    "museum-phrase": "Quite the catch you've brought! The stately and debonair Napoleonfish is truly something to behold. Those beady eyes! That bumpy head! That bold blue-green coloring! Alas, this quirky creature is quite endangered due to a variety of factors. Needless to say, we must do our very best to take care of our lumpy friend and its environment."
+  },
+  "blowfish": {
+    "id": 54,
+    "file-name": "blowfish",
+    "name": {
+      "name-en": "Blowfish",
+      "name-cn": "河豚",
+      "name-de": "Kugelfisch",
+      "name-sp": "Pez globo",
+      "name-fr": "Poisson-ballon",
+      "name-it": "Pesce palla",
+      "name-jp": "フグ",
+      "name-kr": "복어",
+      "name-nl": "Kogelvis",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "11-2",
+      "month-southern": "5-8",
+      "time": "9pm - 4am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Sea",
+      "rarity": "Uncommon"
+    },
+    "shadow": "Medium (3)",
+    "price": 5000,
+    "price-cj": 7500,
+    "catch-phrase": "I caught a blowfish! I'm blown away!",
+    "museum-phrase": "As you 5 know, blowfish carry a deadly poison and are among the most toxic creatures on earth. What you 5 not have known is that poison and spines are not the limit of this animal's defenses! A predator that tries to swallow a blowfish before it inflates can find itself quickly choking. To be honest, if said predator can get past poison, spines, AND choking hazards, I feel they've earned a meal."
+  },
+  "giant_trevally": {
+    "id": 68,
+    "file-name": "giant_trevally",
+    "name": {
+      "name-en": "Giant trevally",
+      "name-cn": "白面弄鱼",
+      "name-de": "Stachelmakrele",
+      "name-sp": "Jurel gigante",
+      "name-fr": "Carangue grosse tête",
+      "name-it": "Carango gigante",
+      "name-jp": "ロウニンアジ",
+      "name-kr": "무명갈전갱이",
+      "name-nl": "Reuzenhorsmakreel",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "5-10",
+      "month-southern": "11-4",
+      "time": "",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Pier",
+      "rarity": "Uncommon"
+    },
+    "shadow": "Large (5)",
+    "price": 4500,
+    "price-cj": 6750,
+    "catch-phrase": "I caught a giant trevally! Yeah, I'm pretty well-trevalled.",
+    "museum-phrase": "The giant trevally, as befits its name, can reach six feet in length and 180 pounds! Its size and strength have made it a favored opponent for anglers since time immemorial. They are also ingenious hunters, sometimes taking advantage of other predators to distract their prey. There have even been documented cases of them attacking —gulp— birds."
+  },
+  "mahi-mahi": {
+    "id": 69,
+    "file-name": "mahi-mahi",
+    "name": {
+      "name-en": "Mahi-mahi",
+      "name-cn": "鬼头刀",
+      "name-de": "Goldmakrele",
+      "name-sp": "Lampuga",
+      "name-fr": "Coryphène",
+      "name-it": "Lampuga",
+      "name-jp": "シイラ",
+      "name-kr": "만새기",
+      "name-nl": "Goudmakreel",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "5-10",
+      "month-southern": "11-4",
+      "time": "",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Pier",
+      "rarity": "Rare"
+    },
+    "shadow": "Large (5)",
+    "price": 6000,
+    "price-cj": 9000,
+    "catch-phrase": "I caught a mahi-mahi! It's all mahine-mahine.",
+    "museum-phrase": "The mahi-mahi is an ocean fish known for its wide, somewhat-cute face. It can reach over six feet long. It is known by different names including \"dolphinfish,\" even though it has no relation to dolphins. They live in only in warm, tropical waters...which perhaps explains the relaxed, happy look on their faces."
+  },
+  "saw_shark": {
+    "id": 72,
+    "file-name": "saw_shark",
+    "name": {
+      "name-en": "Saw shark",
+      "name-cn": "锯鲨",
+      "name-de": "Sägehai",
+      "name-sp": "Pez sierra",
+      "name-fr": "Requin scie",
+      "name-it": "Squalo sega",
+      "name-jp": "ノコギリザメ",
+      "name-kr": "톱상어",
+      "name-nl": "Zaaghaai",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Sea",
+      "rarity": "Rare"
+    },
+    "shadow": "Largest with fin (6)",
+    "price": 12000,
+    "price-cj": 18000,
+    "catch-phrase": "I caught a saw shark! You could call it a sea saw!",
+    "museum-phrase": "As you might expect from the name, the saw shark is a shark with a head that resembles a saw. This unusual appendage is used both to dig potential prey out of the sand and as a weapon against said prey. Given that, it seems like a more appropriate name would have been \"shovel-sword shark,\" eh wot?"
+  },
+  "hammerhead_shark": {
+    "id": 73,
+    "file-name": "hammerhead_shark",
+    "name": {
+      "name-en": "Hammerhead shark",
+      "name-cn": "双髻鲨",
+      "name-de": "Hammerhai",
+      "name-sp": "Pez martillo",
+      "name-fr": "Requin marteau",
+      "name-it": "Pesce martello",
+      "name-jp": "シュモクザメ",
+      "name-kr": "귀상어",
+      "name-nl": "Hamerhaai",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Sea",
+      "rarity": "Uncommon"
+    },
+    "shadow": "Largest with fin (6)",
+    "price": 8000,
+    "price-cj": 12000,
+    "catch-phrase": "I caught a hammerhead shark! I hit the nail on the head!",
+    "museum-phrase": "The hammerhead shark is known for its distinctive, hammer-shaped head, hence the name. Er, obviously. Anyhoot, this oddly shaped head allows the beast to see 360 degrees around itself, from top to bottom. Imagine being able to see so widely! You could check for untied shoelaces AND imminent rain simultaneously!"
+  },
+  "great_white_shark": {
+    "id": 74,
+    "file-name": "great_white_shark",
+    "name": {
+      "name-en": "Great white shark",
+      "name-cn": "鲨鱼",
+      "name-de": "Hai",
+      "name-sp": "Tiburón",
+      "name-fr": "Requin",
+      "name-it": "Squalo bianco",
+      "name-jp": "サメ",
+      "name-kr": "상어",
+      "name-nl": "Haai",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "4pm - 9am",
+      "isAllDay": false,
+      "isAllYear": false,
+      "location": "Sea",
+      "rarity": "Rare"
+    },
+    "shadow": "Largest with fin (6)",
+    "price": 15000,
+    "price-cj": 22500,
+    "catch-phrase": "I caught a great white shark! Watch out for its jaws!",
+    "museum-phrase": "Great white sharks are obviously known first and foremost for their biting. They are masters of the craft! They do lose teeth regularly through biting-related activities, but, luckily, those teeth grow back quickly. In fact, their missing teeth can be regrown in a single day. Just imagine their tooth-fairy-related income!"
+  },
+  "whale_shark": {
+    "id": 75,
+    "file-name": "whale_shark",
+    "name": {
+      "name-en": "Whale shark",
+      "name-cn": "鲸鲨",
+      "name-de": "Walhai",
+      "name-sp": "Tiburón ballena",
+      "name-fr": "Requin-baleine",
+      "name-it": "Squalo balena",
+      "name-jp": "ジンベエザメ",
+      "name-kr": "고래상어",
+      "name-nl": "Walvishaai",
+      "name-ru": "Unknown"
+    },
+    "availability": {
+      "month-northern": "6-9",
+      "month-southern": "12-3",
+      "time": "",
+      "isAllDay": true,
+      "isAllYear": false,
+      "location": "Sea",
+      "rarity": "Rare"
+    },
+    "shadow": "Largest with fin (6)",
+    "price": 13000,
+    "price-cj": 19500,
+    "catch-phrase": "Thar she blows! I caught a whale shark! I'm tellin' ya, it was thiiiiiiiiiiiiiiiiiiiis big!",
+    "museum-phrase": "The mighty whale shark is the largest species of fish in the world with specimens up to 60 feet long! Unlike many of their kin in the shark family, whale sharks are nonviolent, eating only plankton and such. They grow slowly and live long, relaxed lives of filter feeding and leisure in warm waters. So if you ever have to choose a fish as a roommate, you could do worse than the whale shark. Unless you can't swim."
+  },
+  "barreleye": {
+    "id": 79,
+    "file-name": "barreleye",
+    "name": {
+      "name-en": "Barreleye",
+      "name-cn": "太平洋桶眼鱼",
+      "name-de": "Glaskopffisch",
+      "name-sp": "Pez cabeza transparente",
+      "name-fr": "Macropinna",
+      "name-it": "Macropinna",
+      "name-jp": "デメニギス",
+      "name-kr": "데메니기스",
+      "name-nl": "Hemelkijker",
+      "name-ru": "Опистопрокт"
+    },
+    "availability": {
+      "month-northern": "",
+      "month-southern": "",
+      "time": "9pm - 4am",
+      "isAllDay": false,
+      "isAllYear": true,
+      "location": "Sea",
+      "rarity": "Ultra-rare"
+    },
+    "shadow": "Small (2)",
+    "price": 15000,
+    "price-cj": 22500,
+    "catch-phrase": "I caught a barreleye! Like eyeing fish in a barrel!",
+    "museum-phrase": "The barreleye is a deep-sea fish with protuberant eyes and a clear head, so some of its organs are... visible. At first blush, a transparent head seems absurd, but there is a reason: so it can see things directly above! But I must confess - the more I learn about deep-sea fish, the happier I am to live on dry land, wot."
+  },
+  "coelacanth": {
+    "id": 80,
+    "file-name": "coelacanth",
+    "name": {
+      "name-en": "Coelacanth",
+      "name-cn": "矛尾鱼",
+      "name-de": "Quastenflosser",
+      "name-sp": "Celacanto",
+      "name-fr": "Cœlacanthe",
+      "name-it": "Celacanto",
+      "name-jp": "シーラカンス",
+      "name-kr": "실러캔스",
+      "name-nl": "Coelacant",
+      "name-ru": "Латимерия"
+    },
+    "availability": {
+      "month-northern": "",
+      "month-southern": "",
+      "time": "",
+      "isAllDay": true,
+      "isAllYear": true,
+      "location": "Sea (when raining or snowing)",
+      "rarity": "Ultra-rare"
+    },
+    "shadow": "Largest (6)",
+    "price": 15000,
+    "price-cj": 22500,
+    "catch-phrase": "Blast from the past! I caught a coelacanth! Think positive! Be a coela-CAN!",
+    "museum-phrase": "The coelacanth is a deep-sea fish that has been around since the age of the dinosaurs. They were long thought extinct, so when living specimens were discovered, it was quite a shock! Now I'll just have to figure out where in the museum to display it— fish or fossils!"
+  }
+}
