@@ -1,24 +1,58 @@
 = 未寄贈虫一覧
 
-* ホタル
-* クマゼミ
-* タマムシ
-* ヒグラシ
-* ミツバチ
-* カブトムシ
-* ゾウカブト
-* オオクワガタ
-* オオムラサキ
-* タランチュラ
-* フンコロガシ
-* セミのぬけがら
-* プラチナコガネ
-* ミヤマクワガタ
-* ノコギリクワガタ
-* ホソアカクワガタ
-* ニシキオオツバメガ
-* オウゴンオニクワガタ
-* コーカサスオオカブト
-* ヘラクレスオオカブト
-* ギラファノコギリクワガタ
-* ゴライアスオオツノハナムグリ
+* [ ] Great purple emperor
+** オオムラサキ
+* [ ] Madagascan sunset moth
+** ニシキオオツバメガ
+* [ ] Honeybee
+** ミツバチ
+* [ ] Brown cicada
+** アブラゼミ
+* [ ] Robust cicada
+** ミンミンゼミ
+* [ ] Giant cicada
+** クマゼミ
+* [ ] Evening cicada
+** ヒグラシ
+* [ ] Cicada shell
+** セミのぬけがら
+* [ ] Firefly
+** ホタル
+* [ ] Mole cricket
+** オケラ
+* [ ] Jewel beetle
+** タマムシ
+* [ ] Blue weevil beetle
+** ホウセキゾウムシ
+* [ ] Dung beetle
+** フンコロガシ
+* [ ] Scarab beetle
+** プラチナコガネ
+* [ ] Drone beetle
+** カナブン
+* [ ] Goliath beetle
+** ゴライアスオオツノハナムグリ
+* [ ] Saw_stag
+** ノコギリクワガタ
+* [ ] Miyama_stag
+** ミヤマクワガタ
+* [ ] Giant stag
+** オオクワガタ
+* [ ] Cyclommatus stag
+** ホソアカクワガタ
+* [ ] Golden stag
+** オウゴンオニクワガタ
+* [ ] Giraffe stag
+** ギラファノコギリクワガタ
+* [ ] Horned dynastid
+** カブトムシ
+* [ ] Horned atlas
+** コーカサスオオカブト
+* [ ] Horned elephant
+** ゾウカブト
+* [ ] Horned hercules
+** ヘラクレスオオカブト
+* [ ] Walking stick
+** ナナフシ
+* [ ] Tarantula
+** タランチュラ
