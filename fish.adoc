@@ -6,14 +6,10 @@
 ** ランチュウ
 * [ ] Killifish
 ** メダカ
-* [ ] Tadpole
-** オタマジャクシ
 * [ ] Frog
 ** カエル
 * [ ] Giant snakehead
 ** ライギョ
-* [ ] Giant snakehead
-** ブルーギル
 * [ ] Pond smelt
 ** ワカサギ
 * [ ] Golden trout
